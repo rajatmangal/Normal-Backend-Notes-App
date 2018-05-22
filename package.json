@@ -1,0 +1,16 @@
+{
+  "name": "notes-application",
+  "version": "1.0.0",
+  "description": "Just a basic Note making app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajat Mangal",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "nodemon": "^1.17.4",
+    "yargs": "^4.7.1"
+  }
+}
